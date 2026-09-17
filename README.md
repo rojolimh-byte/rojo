@@ -44,20 +44,20 @@ representado al Estado en funciones diplomáticas.
 
 | Período | Cargo | Institución |
 |---|---|---|
-| 2025 | Consultor / Autor de capítulo | Ministerio de Economía y Finanzas Públicas |
-| 2022–2024 | Responsable en Seguridad Ciudadana | Ministerio de Gobierno |
-| 2017– | Diplomático en el Servicio Exterior | Consulado General |
-| 2016–2017 | Consultor en Diálogo y Concertación | INE y Banco Mundial |
-| 2014–2016 | Responsable de Análisis / Seminarios | Vicepresidencia del Estado |
-| 2012–2014 | Consultor Técnico en Publicaciones | Vicepresidencia del Estado |
+| Ministerio de Economía y Finanzas Públicas |
+| Ministerio de Gobierno |
+| Consulado General |
+| Consultor en Diálogo y Concertación | INE y Banco Mundial |
+| Responsable de Análisis / Seminarios | Vicepresidencia del Estado |
+| Consultor Técnico en Publicaciones | Vicepresidencia del Estado |
 
 ---
 
 ### 🎓 Formación
 
 - **Licenciatura en Economía** — Universidad Mayor de San Andrés (UMSA)
-- **Machine Learning: Data Science en Python** — UDEMY (2025)
-- **Políticas Públicas / Gestión Pública** — Escuela de Gestión Pública Plurinacional (2025)
+- **Machine Learning: Data Science en Python** —  
+- **Políticas Públicas / Gestión Pública** — Escuela de Gestión Pública Plurinacional 
 
 ---
 
