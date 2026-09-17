@@ -55,8 +55,8 @@ representado al Estado en funciones diplomáticas.
 ### 🎓 Formación
 
 - **Licenciatura en Economía** — Universidad Mayor de San Andrés (UMSA)
-- **Machine Learning: Data Science en Python** — UDEMY
-- **Políticas Públicas / Gestión Pública** — Escuela de Gestión Pública Plurinacional
+- **Machine Learning: Data Science en Python** — 
+- **Políticas Públicas / Gestión Pública** — 
 
 ---
 
