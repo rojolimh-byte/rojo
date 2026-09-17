@@ -29,35 +29,34 @@ representado al Estado en funciones diplomáticas.
 
 ### 📌 Publicaciones destacadas
 
-- 📖 **Limache, G. (2025).** *"Estado Oligárquico o la Época de la Rosca Minera-Feudal"*.
+- 📖 **Limache, G.** *"Estado Oligárquico o la Época de la Rosca Minera-Feudal"*.
   En **Bolivia: 200 Años de Historia Económica**. Ministerio de Economía y Finanzas Públicas.
 
 - 📚 **Editor científico** de *La Migraña* (N°1–17), revista de análisis político,
-  económico e histórico — Vicepresidencia del Estado (2012–2016).
+  económico e histórico — Vicepresidencia del Estado.
 
 - ✍️ **Coeditor** de *"Patina y Huella: crónicas de conservación del patrimonio"*
-  (ISBN: 978-9917-0-6786-3), Memoria del Segundo Congreso Internacional de Conservación del Patrimonio, 2025.
+  (ISBN: 978-9917-0-6786-3), Memoria del Segundo Congreso Internacional de Conservación del Patrimonio.
 
 ---
 
-### 💼 Trayectoria (selección)
+### 💼 Instituciones
 
-| Período | Cargo | Institución |
-|---|---|---|
-| Ministerio de Economía y Finanzas Públicas |
-| Ministerio de Gobierno |
-| Consulado General |
-| Consultor en Diálogo y Concertación | INE y Banco Mundial |
-| Responsable de Análisis / Seminarios | Vicepresidencia del Estado |
-| Consultor Técnico en Publicaciones | Vicepresidencia del Estado |
+- Ministerio de Economía y Finanzas Públicas
+- Ministerio de la Presidencia
+- Ministerio de Gobierno
+- Ministerio de Relaciones Exteriores
+- Instituto Nacional de Estadísticas (INE)
+- Banco Mundial
+- Vicepresidencia del Estado
 
 ---
 
 ### 🎓 Formación
 
 - **Licenciatura en Economía** — Universidad Mayor de San Andrés (UMSA)
-- **Machine Learning: Data Science en Python** —  
-- **Políticas Públicas / Gestión Pública** — Escuela de Gestión Pública Plurinacional 
+- **Machine Learning: Data Science en Python** — UDEMY
+- **Políticas Públicas / Gestión Pública** — Escuela de Gestión Pública Plurinacional
 
 ---
 
@@ -75,4 +74,4 @@ Español (nativo) · Inglés técnico (intermedio) · Aymara (básico) · Catal�
 
 ---
 
-*"Combinando rigor analítico con capacidad de comunicación y trabajo multisectorial."*
+
